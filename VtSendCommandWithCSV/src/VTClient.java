@@ -13,7 +13,11 @@ import java.net.Socket;
 import java.nio.ByteBuffer;
 import java.util.Arrays;
 import java.util.Scanner;
-
+/** 
+ * @author Djameleddine Bourahla
+ * @version 1.0
+ * 
+ */
 public class VTClient {
  
 	@SuppressWarnings("resource")
